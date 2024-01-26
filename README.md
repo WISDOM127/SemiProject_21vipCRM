@@ -6,7 +6,7 @@
 # 나의 역할
 Oracle Database 생성 및 관리<br/>
 Oracle 프리티어 인스턴스 생성 및 활용<br/>
-고객 관리 / 바우처 관리 파트의 프론트&백엔드⭐<br/>
+고객 관리(Customer) / 바우처 관리(Voucher) 파트의 프론트&백엔드⭐<br/>
 
 # 기술스택
 Java 11<br/>
